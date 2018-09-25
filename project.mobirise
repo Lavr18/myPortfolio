@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "personal website template-clone",
+    "name": "my protfolio",
     "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
@@ -42,7 +42,7 @@
     "versionPublish": "4.8.3",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
-    "favicon": "@PROJECT_PATH@/assets/images/portf-128x150.png",
+    "favicon": "@PROJECT_PATH@/assets/images/portf-128x150-1.png",
     "noImageResize": "",
     "google-analytics": "<noscript><iframe src=\"//www.googletagmanager.com/ns.html?id=GTM-PFK425\"\r\nheight=\"0\" width=\"0\" style=\"display:none;visibility:hidden\"></iframe></noscript>\r\n<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':\r\nnew Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],\r\nj=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=\r\n'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);\r\n})(window,document,'script','dataLayer','GTM-PFK425');</script>",
     "cookiesAlert": "",
