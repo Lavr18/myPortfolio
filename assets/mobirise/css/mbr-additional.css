@@ -1782,7 +1782,7 @@ body {
 }
 .cid-qyufBFEj84 {
   padding-top: 15px;
-  padding-bottom: 90px;
+  padding-bottom: 0px;
   background-color: #f9f9f9;
 }
 .cid-qyufBFEj84 h4 {
@@ -1798,11 +1798,14 @@ body {
   padding-top: 2rem;
 }
 .cid-qyufBFEj84 P {
-  color: #232323;
+  color: #5b686b;
+}
+.cid-qyufBFEj84 .card-title {
+  text-align: left;
 }
 .cid-r4FHv86EjB {
-  padding-top: 90px;
-  padding-bottom: 90px;
+  padding-top: 15px;
+  padding-bottom: 45px;
   background-color: #f9f9f9;
 }
 .cid-r4FHv86EjB h4 {
@@ -1821,7 +1824,7 @@ body {
   height: 100%;
 }
 .cid-r4FHv86EjB P {
-  color: #232323;
+  color: #5b686b;
 }
 .cid-qyuivhFk38 {
   padding-top: 60px;
