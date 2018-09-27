@@ -52,8 +52,8 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Main Page",
-        "meta_descr": "My Bio, Projects, Resume, and Contact Form.",
+        "title": "Aliaksei Laurynovich",
+        "meta_descr": "Portfolio of Aliaksei Laurynovich",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
